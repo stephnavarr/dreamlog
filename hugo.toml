@@ -1,0 +1,29 @@
+baseURL = "https://bystephanienavarro.com"
+languageCode = "en-us"
+title = "by stephanie navarro"
+
+[params]
+  author = "Stephanie Navarro"
+  description = "Essays on dreams, love, home, and womanhood."
+
+[menu]
+  [[menu.main]]
+    name = "dream space"
+    url = "/dreamspace/"
+    weight = 1
+  [[menu.main]]
+    name = "love"
+    url = "/love/"
+    weight = 2
+  [[menu.main]]
+    name = "home"
+    url = "/home-essays/"
+    weight = 3
+  [[menu.main]]
+    name = "21st century woman"
+    url = "/woman/"
+    weight = 4
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

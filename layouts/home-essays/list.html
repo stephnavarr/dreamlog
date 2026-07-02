@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>home — by stephanie navarro</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/homeessays.css" />
+</head>
+<body class="home-body">
+  <nav class="he-nav">
+    <a href="/" class="he-nav__home">← by stephanie navarro</a>
+    <span class="he-nav__title">home</span>
+  </nav>
+  <main class="he-main">
+    <header class="he-hero">
+      <div class="he-hero__accent" aria-hidden="true">
+        <svg viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+          <path d="M0,60 Q150,10 300,60 T600,60 L600,120 L0,120Z" fill="#c8e8c0" opacity="0.35"/>
+          <path d="M0,80 Q200,30 400,80 T600,80 L600,120 L0,120Z" fill="#a8d4b0" opacity="0.25"/>
+        </svg>
+      </div>
+      <h1 class="he-hero__title">home</h1>
+      <p class="he-hero__sub">family, memory, and the ground beneath my feet.</p>
+      <p class="he-hero__sub"> I am the witness, the keeper of memory.</p>
+    </header>
+    <section class="he-posts">
+      {{ range .Pages }}
+      <article class="he-card">
+        <a href="{{ .RelPermalink }}" class="he-card__link">
+          <time class="he-card__date">{{ .Date.Format "January 2, 2006" }}</time>
+          <h2 class="he-card__title">{{ .Title }}</h2>
+          {{ with .Params.excerpt }}<p class="he-card__excerpt">{{ . }}</p>{{ end }}
+          <span class="he-card__read">read →</span>
+        </a>
+      </article>
+      {{ else }}
+      <p class="he-empty">no essays yet. the memories are still finding words.</p>
+      {{ end }}
+    </section>
+  </main>
+  <footer class="he-footer"><p>© {{ now.Year }} stephanie navarro</p></footer>
+</body>
+</html>

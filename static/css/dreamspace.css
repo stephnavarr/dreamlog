@@ -1,0 +1,256 @@
+/* ─── Dream Space ────────────────────────────────────────── */
+/* Palette:
+   #0a0810  near-black with violet undertone
+   #140d1e  deep plum shadow
+   #2a1535  midnight purple
+   #e8b4d8  dusty rose / blush pink
+   #c890cc  muted mauve
+   #d4c8e8  lavender mist
+   #f8f0fc  near-white with pink breath
+*/
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ds-bg:       #0a0810;
+  --ds-surface:  #140d1e;
+  --ds-accent:   #e8b4d8;
+  --ds-muted:    #c890cc;
+  --ds-faint:    #d4c8e8;
+  --ds-text:     #f0e4f4;
+  --ds-dim:      #6a5878;
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body:    'Jost', sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body.dream-body {
+  background: var(--ds-bg);
+  color: var(--ds-text);
+  font-family: var(--font-body);
+  font-weight: 300;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* full-page glitter canvas */
+#ds-glitter {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.45;
+}
+
+/* everything above canvas */
+.ds-nav, .ds-main, .ds-footer { position: relative; z-index: 1; }
+
+/* ─── Nav ─────────────────────────────────────────────────── */
+.ds-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 3rem;
+  border-bottom: 1px solid rgba(200, 144, 204, 0.1);
+}
+
+.ds-nav__home {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ds-dim);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.ds-nav__home:hover { color: var(--ds-accent); }
+
+.ds-nav__title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--ds-muted);
+  letter-spacing: 0.08em;
+}
+
+/* ─── Hero ────────────────────────────────────────────────── */
+.ds-hero {
+  text-align: center;
+  padding: 6rem 1rem 4rem;
+}
+
+.ds-hero__title {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: clamp(3rem, 8vw, 7rem);
+  letter-spacing: 0.06em;
+  color: var(--ds-accent);
+  line-height: 1;
+  text-shadow: 0 0 60px rgba(232, 180, 216, 0.3);
+}
+
+.ds-hero__sub {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--ds-dim);
+  margin-top: 1rem;
+  letter-spacing: 0.12em;
+}
+
+/* ─── Post list ───────────────────────────────────────────── */
+.ds-posts {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem 2rem 6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.ds-card {
+  border-top: 1px solid rgba(200, 144, 204, 0.12);
+}
+.ds-card:last-child { border-bottom: 1px solid rgba(200, 144, 204, 0.12); }
+
+.ds-card__link {
+  display: block;
+  padding: 2.5rem 0;
+  text-decoration: none;
+  color: inherit;
+  transition: padding-left 0.25s ease;
+}
+.ds-card__link:hover { padding-left: 0.5rem; }
+
+.ds-card__date {
+  font-size: 0.68rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ds-dim);
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+.ds-card__title {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  color: var(--ds-faint);
+  line-height: 1.2;
+  margin-bottom: 0.6rem;
+}
+
+.ds-card__excerpt {
+  font-size: 0.82rem;
+  line-height: 1.75;
+  color: var(--ds-dim);
+  margin-bottom: 0.8rem;
+}
+
+.ds-card__read {
+  font-size: 0.68rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ds-muted);
+}
+
+.ds-empty {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--ds-dim);
+  font-size: 1.05rem;
+  padding: 3rem 0;
+  text-align: center;
+}
+
+/* ─── Single post ─────────────────────────────────────────── */
+.ds-post {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+
+.ds-post__header {
+  margin-bottom: 3.5rem;
+  border-bottom: 1px solid rgba(200, 144, 204, 0.12);
+  padding-bottom: 2.5rem;
+}
+
+.ds-post__date {
+  font-size: 0.68rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ds-dim);
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.ds-post__title {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+  color: var(--ds-accent);
+  line-height: 1.15;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 40px rgba(232, 180, 216, 0.2);
+}
+
+.ds-post__excerpt {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--ds-dim);
+  line-height: 1.6;
+}
+
+/* Poetry body */
+.ds-post__body {
+  font-family: var(--font-display);
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
+  line-height: 2;
+  color: var(--ds-faint);
+}
+
+.ds-post__body p {
+  margin-bottom: 2rem;
+  white-space: pre-line;
+}
+
+.ds-post__body em { font-style: italic; color: var(--ds-accent); }
+.ds-post__body strong { font-weight: 400; color: #fff; }
+
+.ds-post__footer {
+  margin-top: 4rem;
+  border-top: 1px solid rgba(200, 144, 204, 0.1);
+  padding-top: 2rem;
+}
+
+.ds-back {
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ds-dim);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.ds-back:hover { color: var(--ds-accent); }
+
+/* ─── Footer ──────────────────────────────────────────────── */
+.ds-footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.15em;
+  color: #2a1f30;
+  text-transform: uppercase;
+}
+
+/* ─── Responsive ──────────────────────────────────────────── */
+@media (max-width: 600px) {
+  .ds-nav { padding: 1rem 1.25rem; }
+  .ds-posts, .ds-post { padding-left: 1.25rem; padding-right: 1.25rem; }
+}

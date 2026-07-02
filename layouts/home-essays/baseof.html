@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ block "title" . }}{{ .Title }} — Home{{ end }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/homeessays.css" />
+</head>
+<body class="home-body">
+
+  <nav class="he-nav">
+    <a href="/" class="he-nav__home">← by stephanie navarro</a>
+    <span class="he-nav__title">home</span>
+  </nav>
+
+  <main class="he-main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="he-footer">
+    <p>© {{ now.Year }} Stephanie Navarro</p>
+  </footer>
+
+</body>
+</html>

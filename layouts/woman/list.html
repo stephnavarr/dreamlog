@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>21st century woman — by stephanie navarro</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;1,300;1,400&family=Jost:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/woman.css" />
+</head>
+<body class="woman-body">
+  <nav class="w-nav">
+    <a href="/" class="w-nav__home">← by stephanie navarro</a>
+    <span class="w-nav__title">21st century woman</span>
+  </nav>
+  <main class="w-main">
+    <header class="w-hero">
+      <h1 class="w-hero__title">21st century<br><em>woman</em></h1>
+      <p class="w-hero__sub">feminism, politics, and what it means to live now</p>
+    </header>
+    <section class="w-posts">
+      {{ range .Pages }}
+      <article class="w-card">
+        <a href="{{ .RelPermalink }}" class="w-card__link">
+          <div class="w-card__meta">
+            <time class="w-card__date">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ with .Params.tags }}<span class="w-card__tag">{{ index . 0 }}</span>{{ end }}
+          </div>
+          <h2 class="w-card__title">{{ .Title }}</h2>
+          {{ with .Params.excerpt }}<p class="w-card__excerpt">{{ . }}</p>{{ end }}
+          <span class="w-card__read">read essay →</span>
+        </a>
+      </article>
+      {{ else }}
+      <p class="w-empty">no essays yet. the arguments are still forming.</p>
+      {{ end }}
+    </section>
+  </main>
+  <footer class="w-footer"><p>© {{ now.Year }} stephanie navarro</p></footer>
+</body>
+</html>

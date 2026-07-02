@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ block "title" . }}{{ .Title }} — love{{ end }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400;1,600&family=Jost:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/love.css" />
+</head>
+<body class="love-body">
+
+  <nav class="lv-nav">
+    <a href="/" class="lv-nav__home">← by stephanie navarro</a>
+    <span class="lv-nav__title">love</span>
+  </nav>
+
+  <main class="lv-main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="lv-footer">
+    <p>© {{ now.Year }} stephanie navarro</p>
+  </footer>
+
+  <canvas id="lv-glitter" aria-hidden="true"></canvas>
+  <script src="/js/love.js"></script>
+</body>
+</html>

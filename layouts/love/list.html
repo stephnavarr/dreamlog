@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>love — by stephanie navarro</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400;1,600&family=Jost:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/love.css" />
+</head>
+<body class="love-body">
+  <nav class="lv-nav">
+    <a href="/" class="lv-nav__home">← by stephanie navarro</a>
+    <span class="lv-nav__title">love</span>
+  </nav>
+  <main class="lv-main">
+    <header class="lv-hero">
+      <h1 class="lv-hero__title">love</h1>
+      <p class="lv-hero__sub">girlhood, longing, and the hearts i carried young</p>
+    </header>
+    <section class="lv-posts">
+      {{ range .Pages }}
+      <article class="lv-card">
+        <a href="{{ .RelPermalink }}" class="lv-card__link">
+          <time class="lv-card__date">{{ .Date.Format "January 2, 2006" }}</time>
+          <h2 class="lv-card__title">{{ .Title }}</h2>
+          {{ with .Params.excerpt }}<p class="lv-card__excerpt">{{ . }}</p>{{ end }}
+          <span class="lv-card__read">read →</span>
+        </a>
+      </article>
+      {{ else }}
+      <p class="lv-empty">no poems yet. the memories are still pink at the edges.</p>
+      {{ end }}
+    </section>
+  </main>
+  <footer class="lv-footer"><p>© {{ now.Year }} stephanie navarro</p></footer>
+  <canvas id="lv-glitter" aria-hidden="true"></canvas>
+  <script src="/js/love.js"></script>
+</body>
+</html>

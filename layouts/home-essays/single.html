@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Title }} — home</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/homeessays.css" />
+</head>
+<body class="home-body">
+  <nav class="he-nav">
+    <a href="/" class="he-nav__home">← by stephanie navarro</a>
+    <span class="he-nav__title">home</span>
+  </nav>
+  <main class="he-main">
+    <article class="he-post">
+      <header class="he-post__header">
+        <time class="he-post__date">{{ .Date.Format "January 2, 2006" }}</time>
+        <h1 class="he-post__title">{{ .Title }}</h1>
+        {{ with .Params.excerpt }}<p class="he-post__excerpt">{{ . }}</p>{{ end }}
+      </header>
+      <div class="he-post__body">{{ .Content }}</div>
+      <footer class="he-post__footer">
+        <a href="/home-essays/" class="he-back">← back to home</a>
+      </footer>
+    </article>
+  </main>
+  <footer class="he-footer"><p>© {{ now.Year }} stephanie navarro</p></footer>
+</body>
+</html>
