@@ -1,7 +1,7 @@
 ---
 title: "the girl"
 date: 2026-07-01
-excerpt: "Inspired by Jung, this poem is about the Shadow, the Self, and the Child integrating into one. I do diverge from this idea as the poem goes along, focusing on the inner child. My adult self dreams about wholeness, but my child self just wants someone to stay."
+excerpt: "Inspired by Jung, this poem is about the Shadow, the Self, and the Child integrating into one. I started writing this in 2023, and I do diverge from this idea as the poem goes along, shifting my focus on the inner child. My adult self dreams about wholeness, but my child self just wants someone to stay."
 ---
 
 maybe we'll all dance one day
