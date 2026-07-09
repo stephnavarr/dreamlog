@@ -10,6 +10,10 @@ big girl.
 the garden i grow is a home you'll never see;
 a world you'll never know.
 
+I worked tirelessly,
+living only off of the hope that you would see it
+and smile.
+
 I dream of it
 the day our hands touch again.
 I'll show you all the fruit I grew out of my tears
