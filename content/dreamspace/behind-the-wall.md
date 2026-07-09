@@ -26,7 +26,6 @@ we'll come back
 you'll drop me off at the gate 
 and never return.
 I'll plant my seeds again 
-and wait for you.
 
 one day I'll lock the gate,
 close the doors,
