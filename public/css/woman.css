@@ -2,18 +2,15 @@
 /* NEW Palette: deep plum, magenta, coral, rose gold, cream   */
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 :root {
-  --w-bg:        #a65387;
-  --w-surface:   #240f1c;
-  --w-coral:     #c4614a;
-  --w-rose:      #d4856a;
-  --w-plum:      #6b2d4a;
-  --w-magenta:   #a03060;
-  --w-cream:     #f5e8e0;
-  --w-blush:     #f0c8b8;
-  --w-text:      #f0e0d8;
-  --w-muted:     #906070;
+  --w-bg:        #f0e7e7;
+  --w-coral:     #46143dd6;
+  --w-rose:      #000000;
+  --w-magenta:   #572a4fd6;
+  --w-cream:     #ddc8c8;
+  --w-blush:     #e0884d;
+  --w-text:      #000000;
+  --w-muted:     #2c2828;
 
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body:    'Source Serif 4', Georgia, serif;
@@ -61,7 +58,7 @@ body.woman-body {
 
 /* ─── Hero ────────────────────────────────────────────────── */
 .w-hero {
-  background: linear-gradient(135deg, #0e0610 0%, #3d1a2e 50%, #6b2d4a 100%);
+  background: linear-gradient(135deg, rgb(243, 162, 75) 0%, rgb(225, 159, 83)50%, rgb(217, 130, 32) 100%);
   color: var(--w-cream);
   padding: 5rem 3rem 5rem;
   position: relative;
@@ -96,7 +93,6 @@ body.woman-body {
 }
 
 .w-hero__title em {
-  font-style: italic;
   color: var(--w-coral);
 }
 

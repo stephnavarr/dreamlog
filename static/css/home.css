@@ -166,13 +166,13 @@ body {
 
 /* ─── Woman Door ─────────────────────────────────────────── */
 .door--woman .door__inner {
-  background: transparent; /* gradient drawn by canvas */
+  background: rgb(223, 136, 36); /* gradient drawn by canvas */
   border-color: rgba(220, 140, 120, 0.25);
 }
-.door--woman .door__label { color: #190f06; }
-.door--woman .door__desc  { color: #0b0000; }
-.door--woman .door__enter { color: #f5d0c0; }
-.door--woman:hover .door__inner { box-shadow: 0 20px 60px rgba(196, 97, 74, 0.3); }
+.door--woman .door__label { color: #fbfaf8; }
+.door--woman .door__desc  { color: #f4f4f4; }
+.door--woman .door__enter { color: #f2eeec; }
+.door--woman:hover .door__inner { box-shadow: 0 20px 60px rgba(158, 107, 6, 0.955); }
 
 /* ─── Footer ─────────────────────────────────────────────── */
 .site-footer {

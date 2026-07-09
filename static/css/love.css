@@ -6,11 +6,11 @@
 :root {
   --lv-bg:      #ffc5e7e2;
   --lv-surface: #f4317c;
-  --lv-pink:    #ff9fd1cc;
-  --lv-mauve:   #c890b0;
-  --lv-cream:   #f8ead8;
-  --lv-blush:   #e8c0d0;
-  --lv-text:    #f4e0ec;
+  --lv-pink:    #d90b75cc;
+  --lv-mauve:   #e21489;
+  --lv-cream:   #494745;
+  --lv-blush:   #d90b75cc;
+  --lv-text:    #3a3136;
   --lv-dim:     #8a6070;
 
   --font-display: 'Cormorant Garamond', Georgia, serif;
