@@ -4,7 +4,8 @@ date: 2023-06-17
 excerpt: "Inspired by Jung, this poem is about the Shadow, the Self, and the Child integrating into one. My adult self dreams about wholeness, but my child self just wants someone to stay."
 ---
 
-maybe we'll all dance one day-
+maybe we'll all dance one day
+bare feet on dewy grass-
 my pains
 my sunshines
 my strengths
