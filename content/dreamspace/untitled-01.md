@@ -1,7 +1,7 @@
 ---
 title: "untitled 01"
 date: 2023-06-17
-excerpt: ""
+excerpt: "Inspired by Jung, this poem is about the Shadow, the Self, and the Child integrating into one."
 ---
 
 maybe we'll all dance one day-
