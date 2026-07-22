@@ -114,7 +114,7 @@ line by line
 ```
 
 ### Home essay
-Create a file in `content/home-essays/your-essay-title.md`:
+Create a file in `content/home/your-essay-title.md`:
 
 ```markdown
 ---
@@ -162,12 +162,12 @@ blog/
 ├── hugo.toml              ← site config (baseURL, menus)
 ├── content/
 │   ├── dreamspace/        ← your poems go here
-│   ├── home-essays/       ← family/memory essays
+│   ├── home/       ← family/memory essays
 │   └── woman/             ← feminist/political essays
 ├── layouts/
 │   ├── index.html         ← the homepage
 │   ├── dreamspace/        ← dream space templates
-│   ├── home-essays/       ← home essay templates
+│   ├── home/       ← home essay templates
 │   └── woman/             ← woman essay templates
 └── static/
     ├── css/               ← all styling

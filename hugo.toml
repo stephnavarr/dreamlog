@@ -17,7 +17,7 @@ title = "by stephanie navarro"
     weight = 2
   [[menu.main]]
     name = "home"
-    url = "/home-essays/"
+    url = "/home/"
     weight = 3
   [[menu.main]]
     name = "21st century woman"

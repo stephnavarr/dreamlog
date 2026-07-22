@@ -15,7 +15,7 @@ minds worn from the hot sun.
 Little girls push their legs closed,
 and keep their mouths shut,
 sneak their eyes open during prayer,
-fingertips burnt after flipping a tortilla.
+fingertips burnt from flipping tortillas.
 
 They watch someone's dreams play out 
 on a neighbor's TV.
@@ -32,6 +32,7 @@ who only saw her mother on weekends
 before the sickness took over.
 
 Angela, 
+at 15,
 working long days,
 bringing medicine
 to her mother's bedside.
@@ -43,11 +44,17 @@ after the funeral.
 The mothers are dying here, 
 the mothers are crying here.
 
+Angela,
+who danced the pain away
+who fell in love
+and birthed a baby
+in the mountains.
+
 Angela, 
 who crossed the deserts,
 and the forests,
 and the river,
-with her baby
+with that baby
 and the man she loved.
 
 She comes home at night
@@ -66,22 +73,22 @@ The man she loved,
 gone.
 
 Angela,
-alone,
-again, 
-and again, 
+alone
+again
+and again
 and again.
 
 Her babies are dying here,
 her babies are crying here.
 
 I'm here
-and I remember,
-I keep watch,
+and I remember.
+I keep watch
 I hold a light up in the darkness.
 
-To the babies that died here,
+To the babies who died here
 rest with me here
-follow me here, 
+follow me here
 sing to me here. 
 I’ll sing to you
 like our mamas did, 
