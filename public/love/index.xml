@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>love on by stephanie navarro</title>
-		<link>http://localhost:1313/love/</link>
+		<link>http://localhost:63373/love/</link>
 		<description>Recent content in love on by stephanie navarro</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/love/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:63373/love/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>finding you</title>
-				<link>http://localhost:1313/love/finding-you/</link>
+				<link>http://localhost:63373/love/finding-you/</link>
 				<pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/love/finding-you/</guid>
+				<guid>http://localhost:63373/love/finding-you/</guid>
 				<description>&lt;p&gt;For so long I wove through the rooms of my life,&#xA;Baby flowers in my hands.&#xA;I planted them in every corner of the world&#xA;Writing love letters on the petals&#xA;Hoping one day someone would read them.&lt;/p&gt;&#xA;&lt;p&gt;I started this poem before I knew you&#xA;Before I knew what you looked like&#xA;Or what your favorite colors were&#xA;Before I knew if you loved the rain&#xA;Or the sea.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>you&#39;ll cry</title>
-				<link>http://localhost:1313/love/youll-cry/</link>
+				<link>http://localhost:63373/love/youll-cry/</link>
 				<pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/love/youll-cry/</guid>
+				<guid>http://localhost:63373/love/youll-cry/</guid>
 				<description>&lt;p&gt;You&amp;rsquo;ll cry about it. You&amp;rsquo;ll cry until your eyes dry out, hot tears like the sidewalk in the summer on the day you crumpled to the ground, trying to remember where you were going and what you were saying and who you were loving and when did you lose them.&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;ll cry until your eyes are too swollen to stay open and your nose is as red as the sun pressing against your eyelids as you lay in the field by the lake where you leaned in to kiss the person who disappeared as quickly as they had arrived, leaving only the ghost of their fingers in your hair for memory.&lt;/p&gt;</description>
 			</item>
 	</channel>

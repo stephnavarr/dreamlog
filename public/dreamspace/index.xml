@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dream Space on by stephanie navarro</title>
-		<link>http://localhost:1313/dreamspace/</link>
+		<link>http://localhost:63373/dreamspace/</link>
 		<description>Recent content in Dream Space on by stephanie navarro</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/dreamspace/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:63373/dreamspace/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>the girl</title>
-				<link>http://localhost:1313/dreamspace/untitled-01/</link>
+				<link>http://localhost:63373/dreamspace/untitled-01/</link>
 				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/untitled-01/</guid>
+				<guid>http://localhost:63373/dreamspace/untitled-01/</guid>
 				<description>&lt;p&gt;maybe we&amp;rsquo;ll all dance one day&#xA;bare feet on dewy grass-&#xA;my pains&#xA;my sunshines&#xA;my strengths&#xA;my weaknesses-&#xA;maybe one day we&amp;rsquo;ll creep out of the shadows&#xA;and show the world our faces.&lt;/p&gt;&#xA;&lt;p&gt;the light&#xA;and the dark.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll walk the hallways of my memory&#xA;and gather all my selves&#xA;hold hands with the version of me who stayed too long&#xA;hug the one who left.&lt;/p&gt;&#xA;&lt;p&gt;we&amp;rsquo;ll travel together&#xA;take inventory of new shapes,&#xA;introduce each other to the things we&amp;rsquo;ve lost.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>untitled 00</title>
-				<link>http://localhost:1313/dreamspace/window/</link>
+				<link>http://localhost:63373/dreamspace/window/</link>
 				<pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/window/</guid>
+				<guid>http://localhost:63373/dreamspace/window/</guid>
 				<description>&lt;p&gt;I still pray the way she taught me.&lt;/p&gt;&#xA;&lt;p&gt;I used to ask God with all my heart to let me fly&#xA;I used to ask God with all my heart to let me die.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The People Are Dying Here</title>
-				<link>http://localhost:1313/dreamspace/people-are-dying-here/</link>
+				<link>http://localhost:63373/dreamspace/people-are-dying-here/</link>
 				<pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/people-are-dying-here/</guid>
+				<guid>http://localhost:63373/dreamspace/people-are-dying-here/</guid>
 				<description>&lt;p&gt;The people are dying there,&#xA;the people are crying there.&lt;/p&gt;&#xA;&lt;p&gt;Little boys run through the streets,&#xA;crumpled bills in their pockets,&#xA;selling fruit under the sky,&#xA;minds worn from the hot sun.&lt;/p&gt;&#xA;&lt;p&gt;Little girls push their legs closed,&#xA;and keep their mouths shut,&#xA;sneak their eyes open during prayer,&#xA;fingertips burnt from flipping tortillas.&lt;/p&gt;&#xA;&lt;p&gt;They watch someone&amp;rsquo;s dreams play out&#xA;on a neighbor&amp;rsquo;s TV.&#xA;They&amp;rsquo;re hungry for more.&lt;/p&gt;&#xA;&lt;p&gt;The children are dying there,&#xA;the children are crying there.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>behind the walls</title>
-				<link>http://localhost:1313/dreamspace/behind-the-wall/</link>
+				<link>http://localhost:63373/dreamspace/behind-the-wall/</link>
 				<pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/behind-the-wall/</guid>
+				<guid>http://localhost:63373/dreamspace/behind-the-wall/</guid>
 				<description>&lt;p&gt;little woman,&#xA;big girl.&lt;/p&gt;&#xA;&lt;p&gt;the garden i grow is a home you&amp;rsquo;ll never see;&#xA;a world you&amp;rsquo;ll never know.&lt;/p&gt;&#xA;&lt;p&gt;I worked tirelessly,&#xA;living only off of the hope that you would see it&#xA;and smile.&lt;/p&gt;&#xA;&lt;p&gt;I dream of it&#xA;the day our hands touch again.&#xA;I&amp;rsquo;ll show you all the fruit I grew out of my tears&#xA;and you&amp;rsquo;ll pick me up&#xA;and we&amp;rsquo;ll run across the world&#xA;leaving my garden&#xA;to rot.&lt;/p&gt;</description>
 			</item>
 	</channel>
