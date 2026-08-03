@@ -1,5 +1,5 @@
 ---
-title: "I <3 NY"
+title: "[DRAFT] I <3 NY"
 date: 2026-07-08
 excerpt: "Reflections on my first (not-so) solo trip to NYC in a heat wave, on America's 50th birthday, during the World Cup."
 ---

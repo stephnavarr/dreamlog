@@ -11,36 +11,29 @@ my sunshines
 my strengths
 my weaknesses-
 maybe one day we'll creep out of the shadows
-and show the world our faces.
+and show the world our faces-
 
 the light 
 and the dark.
 
-I'll walk the hallways of my memory
-and gather all my selves
-hold hands with the version of me who stayed too long
+I walk the hallways of my memory
+and gather all my selves.
+hold the hands of the woman who stayed too long
 hug the one who left.
 
-we'll travel together
-take inventory of new shapes,
-introduce each other to the things we've lost.
+I never know what to say to the girl.
 
-there is a room
-I still avoid.
+sometimes I find myself standing in front of her door
+cracking it open
+peering inside.
 
-I crack the door open
-and peer inside.
-
-I don't know what to say
-to the girl.
-
-she's always smaller than I remember.
+she's always smaller than I remember,
 her long dark hair
-cascades down her back,
-books are stacked high on her bed
-paint peels off the walls surrounding her
-bugs crawling up and down her arms
-as though they've forgotten she's alive.
+cascading down her back,
+books stacked high on her bed,
+paint peeling off the walls surrounding her.
+bugs crawl up and down her arms
+like they've forgotten she's alive.
 
 the ghosts of her home
 circle her body.
@@ -87,9 +80,13 @@ we'll call her name
 and she'll look into my eyes
 and recognize me.
 
-we'll take her to our center.
+we'll travel together
+bring her to our center,
+take inventory of new shapes,
+introduce each other to the things we've lost.
 
 there'll be no lines anymore.
+
 the Earth is mine
 the Earth is ours.
 

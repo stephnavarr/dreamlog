@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>21st Century Woman on by stephanie navarro</title>
-		<link>http://localhost:63373/woman/</link>
+		<link>http://localhost:1313/woman/</link>
 		<description>Recent content in 21st Century Woman on by stephanie navarro</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:63373/woman/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/woman/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>I &lt;3 NY</title>
-				<link>http://localhost:63373/woman/new_york_2026/</link>
+				<title>[DRAFT] Journal Entry from August 2, 2026</title>
+				<link>http://localhost:1313/woman/journal_entry_august_2026/</link>
+				<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/woman/journal_entry_august_2026/</guid>
+				<description>&lt;p&gt;Sunday&lt;/p&gt;&#xA;&lt;p&gt;9:42 PM&lt;/p&gt;&#xA;&lt;p&gt;I was sitting in his car in the parking lot of my apartment complex. I clenched the folded piece of paper in my hand, a page torn from my journal. I lingered before opening the door. I knew this might be the last time we spoke the way we always had, the last chance to ask another question or hear another story about him. Once the note was in his hands, there was no going back.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>[DRAFT] I &lt;3 NY</title>
+				<link>http://localhost:1313/woman/new_york_2026/</link>
 				<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:63373/woman/new_york_2026/</guid>
+				<guid>http://localhost:1313/woman/new_york_2026/</guid>
 				<description>&lt;p&gt;A man wheeled a bright blue dresser across an intersection while a yellow taxi van squeezed around him. Restaurant workers dragged trash bags into alleyways. An Amazon employee dragged a wheelbarrow full of boxes behind him. A father checked his GPS again and again before turning to wave his family in the right direction. Everyone looked tiny, like ants against the sprawl of the gray and brick buildings rising all around them.&lt;/p&gt;</description>
 			</item>
 	</channel>

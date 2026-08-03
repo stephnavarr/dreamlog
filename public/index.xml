@@ -10,11 +10,18 @@
 		
 		
 		
-			<lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>I &lt;3 NY</title>
+				<title>[DRAFT] Journal Entry from August 2, 2026</title>
+				<link>http://localhost:1313/woman/journal_entry_august_2026/</link>
+				<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/woman/journal_entry_august_2026/</guid>
+				<description>&lt;p&gt;Sunday&lt;/p&gt;&#xA;&lt;p&gt;9:42 PM&lt;/p&gt;&#xA;&lt;p&gt;I was sitting in his car in the parking lot of my apartment complex. I clenched the folded piece of paper in my hand, a page torn from my journal. I lingered before opening the door. I knew this might be the last time we spoke the way we always had, the last chance to ask another question or hear another story about him. Once the note was in his hands, there was no going back.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>[DRAFT] I &lt;3 NY</title>
 				<link>http://localhost:1313/woman/new_york_2026/</link>
 				<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/woman/new_york_2026/</guid>
@@ -22,10 +29,10 @@
 			</item>
 			<item>
 				<title>the girl</title>
-				<link>http://localhost:1313/dreamspace/untitled-01/</link>
+				<link>http://localhost:1313/dreamspace/the-girl/</link>
 				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/untitled-01/</guid>
-				<description>&lt;p&gt;maybe we&amp;rsquo;ll all dance one day&#xA;bare feet on dewy grass-&#xA;my pains&#xA;my sunshines&#xA;my strengths&#xA;my weaknesses-&#xA;maybe one day we&amp;rsquo;ll creep out of the shadows&#xA;and show the world our faces.&lt;/p&gt;&#xA;&lt;p&gt;the light&#xA;and the dark.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll walk the hallways of my memory&#xA;and gather all my selves&#xA;hold hands with the version of me who stayed too long&#xA;hug the one who left.&lt;/p&gt;&#xA;&lt;p&gt;we&amp;rsquo;ll travel together&#xA;take inventory of new shapes,&#xA;introduce each other to the things we&amp;rsquo;ve lost.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/dreamspace/the-girl/</guid>
+				<description>&lt;p&gt;maybe we&amp;rsquo;ll all dance one day&#xA;bare feet on dewy grass-&#xA;my pains&#xA;my sunshines&#xA;my strengths&#xA;my weaknesses-&#xA;maybe one day we&amp;rsquo;ll creep out of the shadows&#xA;and show the world our faces-&lt;/p&gt;&#xA;&lt;p&gt;the light&#xA;and the dark.&lt;/p&gt;&#xA;&lt;p&gt;I walk the hallways of my memory&#xA;and gather all my selves.&#xA;hold the hands of the woman who stayed too long&#xA;hug the one who left.&lt;/p&gt;&#xA;&lt;p&gt;I never know what to say to the girl.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>untitled 00</title>
@@ -36,17 +43,10 @@
 			</item>
 			<item>
 				<title>The People Are Dying Here</title>
-				<link>http://localhost:1313/dreamspace/people-are-dying-here/</link>
-				<pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/people-are-dying-here/</guid>
-				<description>&lt;p&gt;The people are dying there,&#xA;the people are crying there.&lt;/p&gt;&#xA;&lt;p&gt;Little boys run through the streets,&#xA;crumpled bills in their pockets,&#xA;selling fruit under the sky,&#xA;minds worn from the hot sun.&lt;/p&gt;&#xA;&lt;p&gt;Little girls push their legs closed,&#xA;and keep their mouths shut,&#xA;sneak their eyes open during prayer,&#xA;fingertips burnt from flipping tortillas.&lt;/p&gt;&#xA;&lt;p&gt;They watch someone&amp;rsquo;s dreams play out&#xA;on a neighbor&amp;rsquo;s TV.&#xA;They&amp;rsquo;re hungry for more.&lt;/p&gt;&#xA;&lt;p&gt;The children are dying there,&#xA;the children are crying there.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The People Are Dying Here</title>
 				<link>http://localhost:1313/home-essays/people-are-dying-here/</link>
 				<pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/home-essays/people-are-dying-here/</guid>
-				<description>&lt;p&gt;The people are dying there,&#xA;the people are crying there.&lt;/p&gt;&#xA;&lt;p&gt;Little boys run through the streets,&#xA;crumpled bills in their pockets,&#xA;selling fruit under the sky,&#xA;minds worn from the hot sun.&lt;/p&gt;&#xA;&lt;p&gt;Little girls push their legs closed,&#xA;and keep their mouths shut,&#xA;sneak their eyes open during prayer,&#xA;fingertips burnt from flipping tortillas.&lt;/p&gt;&#xA;&lt;p&gt;They watch someone&amp;rsquo;s dreams play out&#xA;on a neighbor&amp;rsquo;s TV.&#xA;They&amp;rsquo;re hungry for more.&lt;/p&gt;&#xA;&lt;p&gt;The children are dying there,&#xA;the children are crying there.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Little boys run through the streets,&#xA;crumpled bills in their pockets,&#xA;selling fruit under the sky,&#xA;weaving through traffic in the hot sun.&lt;/p&gt;&#xA;&lt;p&gt;Little girls push their legs closed,&#xA;and keep their mouths shut,&#xA;sneak their eyes open during prayer,&#xA;fingertips burnt from flipping tortillas.&lt;/p&gt;&#xA;&lt;p&gt;They watch someone&amp;rsquo;s dreams play out&#xA;on a neighbor&amp;rsquo;s TV.&lt;/p&gt;&#xA;&lt;p&gt;They&amp;rsquo;re hungry for more.&lt;/p&gt;&#xA;&lt;p&gt;The children are dying there,&#xA;the children are crying there.&lt;/p&gt;&#xA;&lt;p&gt;Angela&#xA;only saw her mother&#xA;on the weekend&#xA;before the sickness took over.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>finding you</title>
