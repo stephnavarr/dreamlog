@@ -1,7 +1,7 @@
 ---
 title: "the fetus"
 date: 2026-08-11
-excerpt: "In one of my earliest memories, I am on my knees, my hands clasped before me, head bent, crying, asking God to take my life. I wrote this poem during a time when I found myself making the same wish as an adult, looking for an answer to the darkness. I integrated my first draft with my poem 'The Girl'. I couldn't find a home for these lines in that poem, so I wanted to keep them here for now."
+excerpt: "this is about something ancient, intimate, and vulnerable that takes over the body and a sense of self."
 ---
 
 The fetus
