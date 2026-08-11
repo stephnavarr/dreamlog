@@ -11,7 +11,8 @@ From the small black stone it wrapped itself around.
 It stretches,
 Reaching its arms back, 
 back back,
-sending its fingers branching up through my shoulders
+sending its fingers branching up 
+through my shoulders
 my neck
 my skull.
 
@@ -20,7 +21,8 @@ down down,
 toes creeping into my stomach
 my legs
 my thighs
-all the way down to my ankles.
+all the way down 
+to my ankles.
 
 I feel my body grow leaden
 My blood
@@ -31,7 +33,8 @@ the world around me
 drifts away.
 
 My mouth is frozen shut
-lips too heavy to scream.
+lips too heavy 
+to scream.
 
 I can't be mad at it
 It's just a baby
