@@ -1,7 +1,7 @@
 ---
 title: "The People Are Dying Here"
 date: 2022-10-08
-excerpt: "Growing up, my parents often told me about why they left Honduras. They spoke about freedom, opportunity, and a better future. As I grew older, I started to question whether migration really ends suffering or simply changes its shape. This poem is about my mother, but it is also about what the children of immigrants inherit long after the border has been crossed."
+excerpt: "As I grew older, I started to question whether migration really ends suffering or simply changes its shape. This poem is about my mother, but it is also about what the children of immigrants inherit long after the border has been crossed."
 ---
 
 Little boys run through the streets,
