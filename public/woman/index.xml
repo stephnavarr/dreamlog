@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>21st Century Woman on by stephanie navarro</title>
-		<link>http://localhost:1313/woman/</link>
+		<link>https://bystephanienavarro.com/woman/</link>
 		<description>Recent content in 21st Century Woman on by stephanie navarro</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/woman/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://bystephanienavarro.com/woman/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>[DRAFT] Journal Entry from August 2, 2026: Asking Questions</title>
-				<link>http://localhost:1313/woman/journal_entry_august_2026/</link>
+				<title>[DRAFT] Journal Entry from August 2, 2026: I get to hear &#39;no&#39;</title>
+				<link>https://bystephanienavarro.com/woman/journal_entry_august_2026/</link>
 				<pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/woman/journal_entry_august_2026/</guid>
-				<description>&lt;p&gt;Sunday&lt;/p&gt;&#xA;&lt;p&gt;9:42 PM&lt;/p&gt;&#xA;&lt;p&gt;For a long time, women&amp;rsquo;s romantic lives were shaped more by circumstance than by choice.&lt;/p&gt;&#xA;&lt;p&gt;Economics decided. Politics decided. Families decided. Marriage was less about affection, compatibility, or love, and more about survival.&lt;/p&gt;&#xA;&lt;p&gt;But my life is different.&lt;/p&gt;&#xA;&lt;p&gt;I get to choose who I love.&lt;/p&gt;&#xA;&lt;p&gt;I get to tell someone that they&amp;rsquo;re beautiful.&lt;/p&gt;&#xA;&lt;p&gt;I get to ask the question.&lt;/p&gt;&#xA;&lt;p&gt;I get to hear &amp;ldquo;no&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;This is the story of my latest &amp;ldquo;no&amp;rdquo;.&lt;/p&gt;</description>
+				<guid>https://bystephanienavarro.com/woman/journal_entry_august_2026/</guid>
+				<description>&lt;p&gt;Sunday&lt;/p&gt;&#xA;&lt;p&gt;9:42 PM&lt;/p&gt;&#xA;&lt;p&gt;For a long time, women&amp;rsquo;s romantic lives were shaped more by circumstance than by choice.&lt;/p&gt;&#xA;&lt;p&gt;Well, that&amp;rsquo;s not entirely true. Choice was a factor, but everyone except for the woman in question had the right to decide. Economics decided. Politics decided. Families decided. Marriage was less about affection, compatibility, or love, and more about survival.&lt;/p&gt;&#xA;&lt;p&gt;But my life is different. I get to choose who I love. I get to tell someone that I think they&amp;rsquo;re beautiful. I get to ask the question.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>[DRAFT] I &lt;3 NY</title>
-				<link>http://localhost:1313/woman/new_york_2026/</link>
+				<link>https://bystephanienavarro.com/woman/new_york_2026/</link>
 				<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/woman/new_york_2026/</guid>
+				<guid>https://bystephanienavarro.com/woman/new_york_2026/</guid>
 				<description>&lt;p&gt;A man wheeled a bright blue dresser across an intersection while a yellow taxi van squeezed around him. Restaurant workers dragged trash bags into alleyways. An Amazon employee dragged a wheelbarrow full of boxes behind him. A father checked his GPS again and again before turning to wave his family in the right direction. Everyone looked tiny, like ants against the sprawl of the gray and brick buildings rising all around them.&lt;/p&gt;</description>
 			</item>
 	</channel>

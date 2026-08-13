@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dream Space on by stephanie navarro</title>
-		<link>http://localhost:1313/dreamspace/</link>
+		<link>https://bystephanienavarro.com/dreamspace/</link>
 		<description>Recent content in Dream Space on by stephanie navarro</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,28 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/dreamspace/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://bystephanienavarro.com/dreamspace/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>the fetus</title>
+				<link>https://bystephanienavarro.com/dreamspace/fetus/</link>
+				<pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>https://bystephanienavarro.com/dreamspace/fetus/</guid>
+				<description>&lt;p&gt;The fetus&#xA;unfurls its body&#xA;from the small black stone&#xA;it folded itself around.&lt;/p&gt;&#xA;&lt;p&gt;It stretches,&#xA;reaching its arms back,&#xA;back back,&#xA;fingers branching&#xA;into my shoulders,&#xA;my neck,&#xA;my skull.&lt;/p&gt;&#xA;&lt;p&gt;Its legs go down,&#xA;down down,&#xA;toes curling&#xA;into my stomach,&#xA;my legs,&#xA;my thighs,&#xA;sinking into&#xA;my ankles.&lt;/p&gt;&#xA;&lt;p&gt;I feel my body&#xA;turn leaden.&#xA;My blood&#xA;vitrified.&lt;/p&gt;&#xA;&lt;p&gt;A gray cast&#xA;covers&#xA;my eyes&#xA;and the world around me&#xA;drifts&#xA;away.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>the girl</title>
-				<link>http://localhost:1313/dreamspace/the-girl/</link>
+				<link>https://bystephanienavarro.com/dreamspace/the-girl/</link>
 				<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/the-girl/</guid>
-				<description>&lt;p&gt;maybe we&amp;rsquo;ll all dance one day&#xA;bare feet on dewy grass-&#xA;my pains&#xA;my sunshines&#xA;my strengths&#xA;my weaknesses-&#xA;maybe one day we&amp;rsquo;ll creep out of the shadows&#xA;and show the world our faces-&lt;/p&gt;&#xA;&lt;p&gt;the light&#xA;and the dark.&lt;/p&gt;&#xA;&lt;p&gt;I walk the hallways of my memory&#xA;and gather all my selves.&#xA;hold the hands of the woman who stayed too long&#xA;hug the one who left.&lt;/p&gt;&#xA;&lt;p&gt;I never know what to say to the girl.&lt;/p&gt;</description>
+				<guid>https://bystephanienavarro.com/dreamspace/the-girl/</guid>
+				<description>&lt;p&gt;maybe we&amp;rsquo;ll all dance one day&#xA;bare feet on dewy grass-&#xA;all of us stepping out from the shadows&#xA;to show the world our faces.&lt;/p&gt;&#xA;&lt;p&gt;the light&#xA;and the dark.&lt;/p&gt;&#xA;&lt;p&gt;I walk the hallways of my memory&#xA;and gather all my selves.&lt;/p&gt;&#xA;&lt;p&gt;I hold the hand of the woman who stayed too long&#xA;hug the one who left.&lt;/p&gt;&#xA;&lt;p&gt;but I never know what to say to the girl.&lt;/p&gt;&#xA;&lt;p&gt;sometimes I find myself standing&#xA;in front of her door,&#xA;cracking it open,&#xA;peering inside.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>scream</title>
+				<link>https://bystephanienavarro.com/dreamspace/scream/</link>
+				<pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+				<guid>https://bystephanienavarro.com/dreamspace/scream/</guid>
+				<description>&lt;p&gt;I bow my head to the forest,&#xA;forgive me in advance.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m draped by the trees&#xA;as the wave rolls through me.&lt;/p&gt;&#xA;&lt;p&gt;I lift my face up&#xA;I can&amp;rsquo;t see the sky.&lt;/p&gt;&#xA;&lt;p&gt;I can&amp;rsquo;t contain her anymore.&lt;/p&gt;&#xA;&lt;p&gt;I open my mouth&#xA;and scream.&lt;/p&gt;&#xA;&lt;p&gt;The sound&#xA;crashes out of me.&lt;/p&gt;&#xA;&lt;p&gt;Water&#xA;pours from my eyes&#xA;Wind&#xA;escapes from my ears.&lt;/p&gt;&#xA;&lt;p&gt;Fire ripples all around me&#xA;trees uprooted&#xA;mountains split open&#xA;creatures spill from their recesses&#xA;making tracks&#xA;far away from here.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>untitled 00</title>
-				<link>http://localhost:1313/dreamspace/window/</link>
+				<link>https://bystephanienavarro.com/dreamspace/window/</link>
 				<pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/window/</guid>
+				<guid>https://bystephanienavarro.com/dreamspace/window/</guid>
 				<description>&lt;p&gt;I still pray the way she taught me.&lt;/p&gt;&#xA;&lt;p&gt;I used to ask God with all my heart to let me fly&#xA;I used to ask God with all my heart to let me die.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>behind the walls</title>
-				<link>http://localhost:1313/dreamspace/behind-the-wall/</link>
+				<link>https://bystephanienavarro.com/dreamspace/behind-the-wall/</link>
 				<pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/dreamspace/behind-the-wall/</guid>
+				<guid>https://bystephanienavarro.com/dreamspace/behind-the-wall/</guid>
 				<description>&lt;p&gt;little woman,&#xA;big girl.&lt;/p&gt;&#xA;&lt;p&gt;the garden i grow is a home you&amp;rsquo;ll never see;&#xA;a world you&amp;rsquo;ll never know.&lt;/p&gt;&#xA;&lt;p&gt;I worked tirelessly,&#xA;living only off of the hope that you would see it&#xA;and smile.&lt;/p&gt;&#xA;&lt;p&gt;I dream of it&#xA;the day our hands touch again.&#xA;I&amp;rsquo;ll show you all the fruit I grew out of my tears&#xA;and you&amp;rsquo;ll pick me up&#xA;and we&amp;rsquo;ll run across the world&#xA;leaving my garden&#xA;to rot.&lt;/p&gt;</description>
 			</item>
 	</channel>

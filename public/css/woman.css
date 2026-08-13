@@ -1,23 +1,29 @@
-/* ─── 21st Century Woman ──────────────────────────────────── */
-/* NEW Palette: deep plum, magenta, coral, rose gold, cream   */
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-:root {
-  --w-bg:        #f0e7e7;
-  --w-coral:     #46143dd6;
-  --w-rose:      #000000;
-  --w-magenta:   #572a4fd6;
-  --w-cream:     #ddc8c8;
-  --w-blush:     #e0884d;
-  --w-text:      #000000;
-  --w-muted:     #2c2828;
-
-  --font-display: 'Playfair Display', Georgia, serif;
-  --font-body:    'Source Serif 4', Georgia, serif;
-  --font-ui:      'Jost', sans-serif;
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-html { scroll-behavior: smooth; }
+:root {
+  --w-bg:        #FFF8F7;   /* soft blush-white */
+  --w-dark:      #34282B;   /* espresso rose */
+  --w-pink:      #E85D75;   /* strawberry */
+  --w-pink-soft: #F5C9D0;   /* petal */
+  --w-mint:      #B8DED3;   /* fresh mint */
+  --w-red:       #D94F5C;   /* poppy */
+  --w-cream:     #FFFDF8;   /* vanilla */
+  --w-text:      #34282B;
+  --w-muted:     #776B6D;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Source Serif 4', Georgia, serif;
+  --font-ui: 'Jost', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
 
 body.woman-body {
   background: var(--w-bg);
@@ -28,13 +34,14 @@ body.woman-body {
 }
 
 /* ─── Nav ─────────────────────────────────────────────────── */
+
 .w-nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 1.25rem 3rem;
-  background: #0e0610;
-  border-bottom: 1px solid rgba(164, 48, 96, 0.2);
+  background: var(--w-dark);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .w-nav__home {
@@ -42,24 +49,28 @@ body.woman-body {
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--w-muted);
+  color: rgba(255, 253, 248, 0.7);
   text-decoration: none;
   transition: color 0.2s;
 }
-.w-nav__home:hover { color: var(--w-blush); }
+
+.w-nav__home:hover {
+  color: var(--w-mint);
+}
 
 .w-nav__title {
   font-family: var(--font-display);
   font-style: italic;
   font-size: 1rem;
-  color: var(--w-rose);
+  color: var(--w-cream);
   letter-spacing: 0.04em;
 }
 
 /* ─── Hero ────────────────────────────────────────────────── */
+
 .w-hero {
-  background: linear-gradient(135deg, rgb(243, 162, 75) 0%, rgb(225, 159, 83)50%, rgb(217, 130, 32) 100%);
-  color: var(--w-cream);
+  background: var(--w-pink-soft);
+  color: var(--w-dark);
   padding: 5rem 3rem 5rem;
   position: relative;
   overflow: hidden;
@@ -68,18 +79,23 @@ body.woman-body {
 .w-hero::before {
   content: '';
   position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 5px;
-  background: linear-gradient(180deg, var(--w-coral), var(--w-magenta));
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 6px;
+  background: var(--w-pink);
 }
 
 .w-hero::after {
   content: '';
   position: absolute;
-  right: -80px; top: -80px;
-  width: 320px; height: 320px;
+  right: -70px;
+  top: -100px;
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(196,97,74,0.18) 0%, transparent 70%);
+  background: var(--w-mint);
+  opacity: 0.65;
   pointer-events: none;
 }
 
@@ -90,24 +106,27 @@ body.woman-body {
   line-height: 1.1;
   max-width: 700px;
   position: relative;
+  z-index: 1;
 }
 
 .w-hero__title em {
-  color: var(--w-coral);
+  color: var(--w-red);
 }
 
 .w-hero__sub {
   font-family: var(--font-ui);
-  font-weight: 300;
+  font-weight: 400;
   font-size: 0.8rem;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--w-muted);
   margin-top: 1.5rem;
   position: relative;
+  z-index: 1;
 }
 
 /* ─── Post list ───────────────────────────────────────────── */
+
 .w-posts {
   max-width: 760px;
   margin: 0 auto;
@@ -116,8 +135,13 @@ body.woman-body {
   flex-direction: column;
 }
 
-.w-card { border-bottom: 1px solid rgba(164, 48, 96, 0.15); }
-.w-card:first-child { border-top: 1px solid rgba(164, 48, 96, 0.15); }
+.w-card {
+  border-bottom: 1px solid rgba(52, 40, 43, 0.12);
+}
+
+.w-card:first-child {
+  border-top: 1px solid rgba(52, 40, 43, 0.12);
+}
 
 .w-card__link {
   display: block;
@@ -126,7 +150,10 @@ body.woman-body {
   color: inherit;
   transition: padding-left 0.2s;
 }
-.w-card__link:hover { padding-left: 0.75rem; }
+
+.w-card__link:hover {
+  padding-left: 0.75rem;
+}
 
 .w-card__meta {
   display: flex;
@@ -148,17 +175,17 @@ body.woman-body {
   font-size: 0.6rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  background: var(--w-magenta);
-  color: #fff;
+  background: var(--w-pink);
+  color: var(--w-cream);
   padding: 0.15rem 0.5rem;
-  border-radius: 2px;
+  border-radius: 999px;
 }
 
 .w-card__title {
   font-family: var(--font-display);
   font-weight: 400;
   font-size: clamp(1.3rem, 2.5vw, 1.9rem);
-  color: var(--w-blush);
+  color: var(--w-dark);
   line-height: 1.25;
   margin-bottom: 0.65rem;
 }
@@ -175,7 +202,7 @@ body.woman-body {
   font-size: 0.68rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: var(--w-coral);
+  color: var(--w-red);
 }
 
 .w-empty {
@@ -188,6 +215,7 @@ body.woman-body {
 }
 
 /* ─── Single post ─────────────────────────────────────────── */
+
 .w-post {
   max-width: 700px;
   margin: 0 auto;
@@ -197,7 +225,7 @@ body.woman-body {
 .w-post__header {
   margin-bottom: 3rem;
   padding-bottom: 2.5rem;
-  border-bottom: 2px solid rgba(164, 48, 96, 0.2);
+  border-bottom: 2px solid var(--w-pink-soft);
 }
 
 .w-post__meta {
@@ -220,17 +248,17 @@ body.woman-body {
   font-size: 0.6rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  background: var(--w-magenta);
-  color: #fff;
+  background: var(--w-pink);
+  color: var(--w-cream);
   padding: 0.15rem 0.5rem;
-  border-radius: 2px;
+  border-radius: 999px;
 }
 
 .w-post__title {
   font-family: var(--font-display);
   font-weight: 700;
   font-size: clamp(2rem, 5vw, 3.5rem);
-  color: var(--w-cream);
+  color: var(--w-dark);
   line-height: 1.15;
   margin-bottom: 1rem;
 }
@@ -238,11 +266,11 @@ body.woman-body {
 .w-post__excerpt {
   font-style: italic;
   font-size: 1.05rem;
-  color: var(--w-coral);
+  color: var(--w-red);
   line-height: 1.65;
   padding: 1rem 1.25rem;
-  border-left: 4px solid var(--w-coral);
-  background: rgba(196, 97, 74, 0.08);
+  border-left: 4px solid var(--w-pink);
+  background: rgba(245, 201, 208, 0.35);
   margin-top: 0.5rem;
 }
 
@@ -252,13 +280,15 @@ body.woman-body {
   color: var(--w-text);
 }
 
-.w-post__body p { margin-bottom: 1.5rem; }
+.w-post__body p {
+  margin-bottom: 1.5rem;
+}
 
 .w-post__body h2 {
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 1.6rem;
-  color: var(--w-cream);
+  color: var(--w-dark);
   margin: 2.5rem 0 0.75rem;
 }
 
@@ -267,30 +297,30 @@ body.woman-body {
   font-style: italic;
   font-weight: 400;
   font-size: 1.25rem;
-  color: var(--w-rose);
+  color: var(--w-red);
   margin: 2rem 0 0.5rem;
 }
 
 .w-post__body a {
-  color: var(--w-coral);
+  color: var(--w-red);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
 .w-post__body blockquote {
-  border-left: 4px solid var(--w-magenta);
+  border-left: 4px solid var(--w-mint);
   padding: 0.75rem 1.5rem;
   margin: 2.5rem 0;
-  background: rgba(107, 45, 74, 0.15);
+  background: rgba(184, 222, 211, 0.3);
   font-style: italic;
   font-size: 1.1rem;
-  color: var(--w-blush);
+  color: var(--w-dark);
   line-height: 1.7;
 }
 
 .w-post__footer {
   margin-top: 4rem;
-  border-top: 1px solid rgba(164, 48, 96, 0.15);
+  border-top: 1px solid rgba(52, 40, 43, 0.12);
   padding-top: 2rem;
 }
 
@@ -303,23 +333,38 @@ body.woman-body {
   text-decoration: none;
   transition: color 0.2s;
 }
-.w-back:hover { color: var(--w-coral); }
+
+.w-back:hover {
+  color: var(--w-pink);
+}
 
 /* ─── Footer ──────────────────────────────────────────────── */
+
 .w-footer {
   text-align: center;
   padding: 1.5rem;
   font-family: var(--font-ui);
   font-size: 0.68rem;
   letter-spacing: 0.15em;
-  color: var(--w-muted);
+  color: rgba(255, 253, 248, 0.6);
   text-transform: uppercase;
-  background: #0e0610;
-  border-top: 1px solid rgba(164, 48, 96, 0.15);
+  background: var(--w-dark);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 @media (max-width: 600px) {
-  .w-nav { padding: 1rem 1.25rem; }
-  .w-hero { padding: 3.5rem 1.5rem; }
-  .w-posts, .w-post { padding-left: 1.25rem; padding-right: 1.25rem; }
+  .w-nav {
+    padding: 1rem 1.25rem;
+  }
+
+  .w-hero {
+    padding: 3.5rem 1.5rem;
+  }
+
+  .w-posts,
+  .w-post {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
 }
+
