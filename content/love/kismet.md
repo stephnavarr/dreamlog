@@ -1,7 +1,7 @@
 ---
 title: "kismet"
-date: 2024-??-??
-excerpt: "I love being a lover girl. I love heartbreak. I love it all. This is what I am here to do."
+date: 2024-12-31
+excerpt: "I love being a lover girl. I love heartbreak. I love it all. This is what I am here to do. P.S. I don't know when I wrote this, but it was probably sometime in 2024. I found it in an older journal."
 ---
 
 to be be pink and then be blue
