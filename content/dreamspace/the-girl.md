@@ -1,48 +1,47 @@
 ---
 title: "the girl"
 date: 2026-07-01
-excerpt: "This poem is about memory, estrangement, and facing the child behind a closed door. I have a lot of memory loss from my childhood, and I find it hard to think back on those times. As I grow older it gets easier, but I still don't fully recognize myself as the girl I used to be."
+excerpt: "She is me, but I don't know her."
 ---
 
 maybe we'll all dance one day
 bare feet on dewy grass-
-my pains
-my sunshines
-my strengths
-my weaknesses-
-maybe one day we'll creep out of the shadows
-and show the world our faces-
+all of us stepping out from the shadows
+to show the world our faces.
 
-the light 
+the light
 and the dark.
 
 I walk the hallways of my memory
 and gather all my selves.
-hold the hands of the woman who stayed too long
+
+I hold the hand of the woman who stayed too long
 hug the one who left.
 
-I never know what to say to the girl.
+but I never know what to say to the girl.
 
-sometimes I find myself standing in front of her door
-cracking it open
+sometimes I find myself standing 
+in front of her door,
+cracking it open,
 peering inside.
 
 she's always smaller than I remember,
 her long dark hair
 cascading down her back,
 books stacked high on her bed,
-paint peeling off the walls surrounding her.
-bugs crawl up and down her arms
-like they've forgotten she's alive.
+paint peeling off the walls around her.
 
 the ghosts of her home
 circle her body.
 
-her eyes are closed
-hands clasped against her chest
+bugs crawl up and down her arms
+like they've forgotten she's alive.
+
+her eyes are closed,
+hands clasped against her chest,
 whispering:
 
-hug me,
+hug me
 hold me here.
 look at me again
 tell me that the things I’ve made are beautiful
@@ -54,25 +53,32 @@ that we can share the world
 like before.
 
 I close the door
-and walk outside.
+and leave her there,
+let her tears fill the room.
 
-I press my hand against her window.
+I just can't go in there yet.
+
+outside,
+I press my hand
+against her window.
+
 she doesn't turn around.
 
 I scream at her back:
 
 let me in-
-I'm far from home
-and I'm so tired.
-there are things I can't remember anymore
-and I need you tell me.
+I'm tired.
+
+there are things 
+I can't remember anymore.
+I need you to tell me.
 
 was there love here?
 was there pain?
 how do I go back?
 how do I come home?
 
-I turn away 
+I turn away
 before she can close the blinds.
 
 maybe next time
@@ -80,12 +86,18 @@ we'll call her name
 and she'll look into my eyes
 and recognize me.
 
-we'll travel together
+maybe one day
+we'll open the door together
 bring her to our center,
-take inventory of new shapes,
-introduce each other to the things we've lost.
+and introduce each other 
+to the things we've lost.
 
-there'll be no lines anymore.
+we'll walk out into the the light
+bare feet on dewy grass.
+
+no doors
+no windows.
+no lines anymore.
 
 the Earth is mine
 the Earth is ours.
