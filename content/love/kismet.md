@@ -13,10 +13,10 @@ to be home and to be displaced
 again and again.
 
 to stand and to fall and to love,
-to have my soul crushed,
-and my wings ripped out, 
+to have my soul crushed
+and my wings ripped out
 to stand in the mirror
-and watch my back bleed,
+and watch my back bleed
 again and again.
 
 my kismet
