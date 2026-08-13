@@ -1,6 +1,6 @@
 ---
 title: "scream"
-date: 20224-07-05
+date: 2024-07-05
 excerpt: "crying is less destructive"
 ---
 I bow my head to the forest,
