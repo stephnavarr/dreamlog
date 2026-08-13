@@ -13,6 +13,7 @@ next to clean plates
 topped with warm meals?
 
 Have you seen it?
+
 Have you felt it?
 
 Sinking into a hug after a long day,
@@ -23,7 +24,7 @@ Can you take me there?
 
 I can’t count on myself to find it anymore.
 
-Can you take me there?
+Can you take me?
 
 So I can lay my head and rest,
 free my mind of the burdens I've carried,
